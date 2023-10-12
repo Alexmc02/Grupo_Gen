@@ -1,0 +1,22 @@
+  .navbar-nav a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  .offcanvas.offcanvas-end{
+    color: aliceblue;
+  }
+  
+  .text-logo{
+    color: #672718;
+    font-weight: 900;
+}
+
+.navbar-toggler:hover{
+  color: #F7EAEF;
+  background-color: #440D20;
+}
+
+
+  
